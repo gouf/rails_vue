@@ -7,3 +7,4 @@
 // layout file, like app/views/layouts/application.html.erb
 
 console.log('Hello World from Webpacker')
+require(__dirname + '/hello/helloVue.js')
