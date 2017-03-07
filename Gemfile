@@ -55,6 +55,7 @@ group :doc do
   gem 'yard'
 end
 
+gem 'gon'
 gem 'webpacker'
 gem 'less-rails'
 gem 'nprogress-rails'
